@@ -1,3 +1,17 @@
+# File: Roman_to_decimal_number_system.py
+# Description: Conversion Roman number to decimal number system
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
+# Reference to:
+# [1] Valentyn N Sichkar. Conversion Roman number to decimal number system // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Roman_number_to_decimal_number (date of access: XX.XX.XXXX)
+
+
+
+
 # Implementing the task
 # Converting Roman number system to decimal number system
 # By using regular expressions
