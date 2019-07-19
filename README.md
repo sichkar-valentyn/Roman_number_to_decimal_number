@@ -1,9 +1,6 @@
 # Roman number to decimal number
 Conversion Roman number to decimal number system
 
-### Courses:
-* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
-
 ### Reference to:
 [1] Valentyn N Sichkar. Conversion Roman number to decimal number system // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Roman_number_to_decimal_number (date of access: XX.XX.XXXX)
 
